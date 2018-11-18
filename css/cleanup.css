@@ -8,4 +8,6 @@ html #wall #tag-2 {
    display:none;
  }
  
- 
+ html div#wall #tag-3.slick {
+   display: none;
+ }
